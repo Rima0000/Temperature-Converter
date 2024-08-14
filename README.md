@@ -1,32 +1,29 @@
-#Temperature Converter
+# Temperature Converter
 
-A simple temperature converter that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Built with JavaScript.
+> A simple temperature converter that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Built with JavaScript.
 
+Additional description about the project and its features.
 
-➡️Additional description about the project and its features.
+## Built With
 
-Built With
-HTML
-CSS
-JAVASCRIPT
+- HTML 
+- CSS
+- JAVASCRIPT
 
+### Prerequisites
 
-➡️Prerequisites
+- A modern browser, up to date.
 
-A modern browser, up to date. 💪
+### Run tests
 
+- There are no automated tests for this project.
 
-➡️Run tests
+## Future features
 
-There are no automated tests for this project.
+- Add extra functionality for converting temperatures between more units like Rankine.
+- Implement a history log of conversions.
+- Include a contact page.
 
+## Show your support
 
-➡️Future features
-
-Add extra functionality for converting temperatures between more units like Rankine.
-Implement a history log of conversions.
-Include a contact page.
-
-
-➡️Show your support
 Give a ⭐️ if you like this project!
